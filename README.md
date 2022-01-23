@@ -2,6 +2,6 @@
 
 Install Instructions:
 
-  1) clone the repo <br>
-  2)run->  npm install 
+1) clone the repo <br>
+2) run->  npm install 
   
