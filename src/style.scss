@@ -1,0 +1,14 @@
+body{
+  background-color: orange;
+  color: purple;
+}
+
+h1{
+  background-image: linear-gradient(to right,red,blue);
+  background-clip:text;
+  color: transparent;
+}
+
+img{
+  object-fit: contain;
+}
